@@ -28,3 +28,5 @@ docker ps (procesos ejecutados)
 docker ps -a (historial de procesos)
 docker ps -aq (historial pero solo ids)
 docker rm $(docker ps -aq) (borramos todas los procesos ejecutados)
+
+
