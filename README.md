@@ -32,4 +32,3 @@ docker rm $(docker ps -aq) (borramos todas los procesos ejecutados)
 
 
 
-
