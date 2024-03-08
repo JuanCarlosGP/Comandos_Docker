@@ -30,5 +30,3 @@ docker ps -aq (historial pero solo ids)
 docker rm $(docker ps -aq) (borramos todas los procesos ejecutados)
 
 
-
-
